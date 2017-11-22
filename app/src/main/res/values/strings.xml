@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Problemas</string>
+    <string name="conversi_n">Conversión</string>
+    <string name="literal">Literal</string>
+    <string name="juego">Juego</string>
+    <string name="pagar">pagar</string>
+    <string name="c_m">c.m. :</string>
+    <string name="conveierte">Convierte</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="m">m. :</string>
+    <string name="k_m">k.m. :</string>
+    <string name="nro">Nro. :</string>
+    <string name="intentos">Intentos</string>
+    <string name="nro_0_10">Nro. (0-10) :</string>
+</resources>
